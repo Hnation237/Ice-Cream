@@ -27,8 +27,6 @@
         <tr><td>D</td><td>Blueberry, Non Diary</td></tr>
         <tr><td>F</td><td>Wasabi</td></tr>
       </table>
-    </body>
-  </html>
   </html>
   <html>
 <html>
