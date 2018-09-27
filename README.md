@@ -1,4 +1,4 @@
-<!doctype html>
+
   <html lang="en">
        <head>
            <meta charset="utf-8">
@@ -19,7 +19,7 @@
           
       </body>
       <table>
-        <tr><th>Tier</th><th>Flavor</th></tr></font>
+        <tr><th>Tier</th><th>Flavor</th></tr>
         <tr><td>S</td><td>Mint Chip, Cookies and Cream, Peanut Butter & Chocolate</td></tr>
         <tr><td>A</td><td>Butter Pecan, Vanilla, Chocolate</td></tr>
         <tr><td>B</td><td>Strawberry</td></tr>
@@ -32,6 +32,4 @@
   </html>
   <html>
 <html>
-<body background="image/chip.jpg">
-</body>
-</html> 
+<body background="image/chip.jpg"> 
