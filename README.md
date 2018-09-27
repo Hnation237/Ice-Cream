@@ -14,8 +14,7 @@
                  background-image url("")
           </style>
           <h2>
-             This list has been cleared through the Official Ice Cream Board of Approval. 
-             <a href="https://scratch.mit.edu/projects/246340804/#player">Also a game I made</a>
+             This list has been cleared through the Official Ice Cream Board of Approval.
           </h2>
           
       </body>
